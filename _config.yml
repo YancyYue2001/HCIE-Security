@@ -1,2 +1,4 @@
 title: My Awesome Blog
 description: A simple Jekyll blog powered by GitHub Pages
+paginate: 5  # 每页显示 5 篇文章
+paginate_path: "/page:num/"
