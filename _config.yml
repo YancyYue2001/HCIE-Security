@@ -1,4 +1,13 @@
 title: My Awesome Blog
-description: A simple Jekyll blog powered by GitHub Pages
+description: A blog built with Jekyll
+author: Your Name
+
+# 设置网站的基础 URL
+url: "https://yancyyue2001.github.io"  # 如果是本地开发可以是 "http://localhost:4000"
+
+# 设置分页数量（可选）
 paginate: 5  # 每页显示 5 篇文章
 paginate_path: "/page:num/"
+
+# 设置主题（如果你使用的是 Jekyll 主题，或者自定义）
+theme: minima  # 如果使用默认的 Jekyll 主题（minima）
